@@ -1,4 +1,4 @@
-# video-skills
+# holdframe
 
 Agent skills for Vietnamese educational YouTube videos: script, storyboard, Remotion motion, on-screen text, procedural SFX, review, and upload metadata.
 
@@ -19,8 +19,8 @@ No voice. This repo does not include speech synthesis, voice packs, or a TTS mod
 ## Install
 
 ```bash
-npx skills add zane-tv/video-skills --skill youtube-explainer -y
-npx skills add zane-tv/video-skills --skill motion-design --skill review-loop --skill sound-design --skill web-sims -y
+npx skills add zane-tv/holdframe --skill youtube-explainer -y
+npx skills add zane-tv/holdframe --skill motion-design --skill review-loop --skill sound-design --skill web-sims -y
 ```
 
 Pass `-a claude-code`, `-a codex`, `-a cursor`, or `-a opencode` to target one agent. Add `-g` for a user-global install.

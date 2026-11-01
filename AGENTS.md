@@ -1,4 +1,4 @@
-# video-skills
+# holdframe
 
 Skill pack for educational motion videos. No speech synthesis.
 
